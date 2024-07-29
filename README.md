@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/giorgi lekiashvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giorgi lekiashvili" height="30" width="40" /></a>
+<a href="https://fb.com/giorgi.lek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giorgi.lek" height="30" width="40" /></a>
 <a href="https://instagram.com/gikosin888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gikosin888" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gikosin8&show_icons=true&locale=en" alt="gikosin8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gikosin8&" alt="gikosin8" /></p>
-
